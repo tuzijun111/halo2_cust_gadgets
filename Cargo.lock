@@ -5056,3 +5056,8 @@ dependencies = [
  "libc",
  "pkg-config",
 ]
+
+[[patch.unused]]
+name = "halo2_proofs"
+version = "0.2.0"
+source = "git+https://github.com/tuzijun111/halo2_PSE#7df9e8c4e064aae1ae8db37a2831fc962b1181a0"
